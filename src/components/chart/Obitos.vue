@@ -12,9 +12,9 @@ export default {
             labels: [],
             datasets: [{
                label: 'Óbitos confirmados',
-               borderColor: '#621DF2',
+               borderColor: '#F26E50',
                borderWidth: 3,
-               pointBorderColor: '#621DF2',
+               pointBorderColor: '#F26E50',
                //Data to be represented on y-axis
                data: []
             }

@@ -1,6 +1,11 @@
 <template>
     <v-container class="mb-5 pt-0">
+        
         <v-row>
+            <v-col cols="12">
+                <h2>Artigos do Ministério da Saúde.</h2>
+                <h3>CORONAVÍRUS COVID-19</h3>
+            </v-col>
             <v-col cols="12" sm="6" md="4" v-for="link in links" :key="link.title">
                  <v-hover v-slot="{ hover }">
                     <a class="underline-none" :href="url + link.href">

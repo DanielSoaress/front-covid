@@ -300,7 +300,6 @@
                     </v-card>
                 </v-hover>
             </v-col>
-
         </v-row>
     </v-container>
 </template>
