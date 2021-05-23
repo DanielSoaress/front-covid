@@ -302,13 +302,5 @@
             </v-col>
 
         </v-row>
-        <v-row class="my-5">
-            <v-col cols="6" class="mx-auto">
-                <p class="mt-3">Saiba como proteger você e sua família. <br>
-                     Em caso de dúvidas acesse: <a href="https://www.gov.br/saude/pt-br"> gov.br/saude</a> ou DISQUE SAÚDE  136
-                </p>
-            </v-col>
-
-        </v-row>
     </v-container>
 </template>
