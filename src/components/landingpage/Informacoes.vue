@@ -17,7 +17,7 @@
             <v-col cols="12">
             <h3>Como posso me proteger?</h3>
             </v-col>
-            <v-col cols="4">
+            <v-col  xs="12" sm="6" md="6" lg="4">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img
@@ -36,7 +36,7 @@
                     </v-card>
                 </v-hover>
             </v-col>
-            <v-col cols="4">
+            <v-col xs="12" sm="6" md="6" lg="4">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img
@@ -54,7 +54,7 @@
                     </v-card>
                 </v-hover>
             </v-col>
-            <v-col cols="4">
+            <v-col xs="12" sm="6" md="6" lg="4">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img
@@ -72,7 +72,7 @@
                     </v-card>
                 </v-hover>
             </v-col>
-            <v-col cols="4">
+            <v-col xs="12" sm="6" md="6" lg="4">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img
@@ -90,7 +90,7 @@
                     </v-card>
                 </v-hover>
             </v-col>
-            <v-col cols="4">
+            <v-col xs="12" sm="6" md="6" lg="4">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img
@@ -108,7 +108,7 @@
                     </v-card>
                 </v-hover>                
             </v-col>
-            <v-col cols="4">
+            <v-col xs="12" sm="6" md="6" lg="4">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img
@@ -132,7 +132,7 @@
                 <h3>Como o coronavírus (Covid-19) é transmitido?</h3>
                 <p class="mt-3">A transmissão acontece de uma pessoa doente para outra ou por contato próximo (cerca de 2 metros), por meio de:</p>
             </v-col>
-            <v-col cols="2">
+            <v-col xs="12" sm="6" md="4" lg="2">
                 <v-hover v-slot="{ hover }" >
                     <v-card :elevation="hover ? 8 : 2" class="align-self-stretch">
                         <v-img
@@ -150,7 +150,7 @@
                     </v-card>
                 </v-hover>
             </v-col>
-            <v-col cols="2">
+            <v-col xs="12" sm="6" md="4" lg="2">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img
@@ -168,7 +168,7 @@
                     </v-card>
                 </v-hover>
             </v-col>
-            <v-col cols="2">
+            <v-col xs="12" sm="6" md="4" lg="2">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img
@@ -186,7 +186,7 @@
                     </v-card>
                 </v-hover>
             </v-col>
-            <v-col cols="2">
+            <v-col xs="12" sm="6" md="4" lg="2">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2">
                         <v-img
@@ -204,7 +204,7 @@
                     </v-card>
                 </v-hover>
             </v-col>
-            <v-col cols="2">
+            <v-col xs="12" sm="6" md="4" lg="2">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img
@@ -222,7 +222,7 @@
                     </v-card>
                 </v-hover>
             </v-col>
-            <v-col cols="2">
+            <v-col xs="12" sm="6" md="4" lg="2">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img
@@ -246,7 +246,7 @@
                 <h3>E quais são os principais sintomas?</h3>
                 <p class="mt-3">O coronavírus (Covid-19) é similar a uma gripe. Geralmente é uma doença leve a moderada, mas alguns casos podem ficar graves. Alguns pacientes também apresentam cansaço, dores no corpo, mal estar, congestão nasal, coriza, dor de garganta ou dor no peito. Algumas pessoas são infectadas, mas não apresentam sintomas ou apresentam sintomas muito leves. A maioria se recupera sem precisar de tratamento especial. No entanto, outras podem apresentar a forma grave da doença, principalmente idosos, imunossuprimidos, gestantes, nutrizes e portadores de doenças crônicas descompensadas. <br> Os sintomas mais comuns são:</p>
             </v-col>
-            <v-col cols="4">
+            <v-col xs="12" sm="4" md="4">
                 <v-hover v-slot="{ hover }" >
                     <v-card :elevation="hover ? 8 : 2" class="align-self-stretch">
                         <v-img
@@ -264,7 +264,7 @@
                     </v-card>
                 </v-hover>
             </v-col>
-            <v-col cols="4">
+            <v-col xs="12" sm="4" md="4">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img
@@ -282,7 +282,7 @@
                     </v-card>
                 </v-hover>
             </v-col>
-            <v-col cols="4">
+            <v-col xs="12" sm="4" md="4">
                 <v-hover v-slot="{ hover }">
                     <v-card :elevation="hover ? 8 : 2" >
                         <v-img

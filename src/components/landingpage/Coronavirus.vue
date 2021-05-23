@@ -1,8 +1,7 @@
 <template>
     <v-container class="mb-5 pt-0">
         <v-row>
-            <v-col cols="12"></v-col>
-            <v-col cols="4" v-for="link in links" :key="link.title">
+            <v-col cols="12" sm="6" md="4" v-for="link in links" :key="link.title">
                  <v-hover v-slot="{ hover }">
                     <a class="underline-none" :href="url + link.href">
                         <v-card :elevation="hover ? 8 : 2" height="150" 
@@ -14,7 +13,7 @@
                     </a>
                 </v-hover>
             </v-col>
-            <v-col cols="4">
+            <v-col cols="12" sm="6" md="4">
                  <v-hover v-slot="{ hover }">
                     <a class="underline-none" href="https://qsprod.saude.gov.br/extensions/covid-19_html/covid-19_html.html">
                         <v-card :elevation="hover ? 8 : 2" height="150" 
