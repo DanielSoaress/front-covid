@@ -1,24 +1,27 @@
-# front-covid
+# COVID-19 NO BRASIL
 
-## Project setup
-```
-yarn install
-```
+## 🚀 Tecnologias
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- [Vue.js](https://vuejs.org/)
+- [Vuex](https://vuex.vuejs.org/)
+- [Vuetify](https://vuetifyjs.com/en/)
+- [Chart.js](https://www.chartjs.org/)
+- [Axios](https://github.com/axios/axios)
+- [API COVID-19](https://brasil.io/home/)
 
-### Lints and fixes files
-```
-yarn lint
-```
+## 💻 Projeto
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Aplicação Web para Conclusção do Curso Sistemas de Informação da Faculdade Lourenço Filho
+
+## 🧠 Desafio
+
+- Novas Tecnologias
+- Manipulação de Gráficos
+- Arquiteura Rest
+- Framework Javascript
+
+
+Feito com ♥ by Daniel Soares :wave:
+
