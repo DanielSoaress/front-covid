@@ -1,5 +1,9 @@
 # COVID-19 NO BRASIL
 
+## 💻 Projeto
+
+Aplicação Web para Conclusção do Curso Sistemas de Informação da Faculdade Lourenço Filho
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -11,17 +15,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Axios](https://github.com/axios/axios)
 - [API COVID-19](https://brasil.io/home/)
 
-## 💻 Projeto
-
-Aplicação Web para Conclusção do Curso Sistemas de Informação da Faculdade Lourenço Filho
-
 ## 🧠 Desafio
 
 - Novas Tecnologias
 - Manipulação de Gráficos
 - Arquiteura Rest
 - Framework Javascript
-
 
 Feito com ♥ by Daniel Soares :wave:
 
